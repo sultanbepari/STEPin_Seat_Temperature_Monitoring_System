@@ -11,8 +11,22 @@ The Vehicle Seat Heat Monitoring System is capable of maintaining of heat in the
 | `5_Simulations`      | SimulIDE simulation file|
 | `6_ImagesAndVideos`      | Simulation Images and Videos|
 
-![](https://www.code-inspector.com/project/28714/score/svg)
-![](https://www.code-inspector.com/project/28714/status/svg)
+## Code Inspector Badges
+
+![](https://www.code-inspector.com/project/28714/score/svg)<br />![](https://www.code-inspector.com/project/28714/status/svg)
+
+## Git Codacy Badge
+
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0331ee08be5f49df9aa17edb570bb842)](https://www.codacy.com/gh/sultanbepari/STEPin_Seat_Temperature_Monitoring_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sultanbepari/STEPin_Seat_Temperature_Monitoring_System&amp;utm_campaign=Badge_Grade)
-[![Compile-Linux](https://github.com/sultanbepari/STEPin_Seat_Temperature_Monitoring_System/actions/workflows/Compile.yml/badge.svg)](https://github.com/sultanbepari/STEPin_Seat_Temperature_Monitoring_System/actions/workflows/Compile.yml)
-[![Compile-Linux](https://github.com/sultanbepari/STEPin_Seat_Temperature_Monitoring_System/actions/workflows/Compile.yml/badge.svg)](https://github.com/sultanbepari/STEPin_Seat_Temperature_Monitoring_System/actions/workflows/Compile.yml)
+
+## Other Badges
+
+| Compile Linux | Cpp Check |
+| ----------- | ----------- |
+|[![Compile-Linux](https://github.com/sultanbepari/STEPin_Seat_Temperature_Monitoring_System/actions/workflows/Compile.yml/badge.svg)](https://github.com/sultanbepari/STEPin_Seat_Temperature_Monitoring_System/actions/workflows/Compile.yml)| [![Compile-Linux](https://github.com/sultanbepari/STEPin_Seat_Temperature_Monitoring_System/actions/workflows/Compile.yml/badge.svg)](https://github.com/sultanbepari/STEPin_Seat_Temperature_Monitoring_System/actions/workflows/Compile.yml) |
+
+
+## Contributors List and Summary
+|PS no. |  Name   |    Features    |
+|-------|---------|----------------|
+| `99006291` | Sultan Bepari | Seat Temperature Monitoring System |  
