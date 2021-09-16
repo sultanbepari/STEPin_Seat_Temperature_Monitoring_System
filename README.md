@@ -25,7 +25,7 @@ The Vehicle Seat Heat Monitoring System is capable of maintaining of heat in the
 
 | Compile Linux | Cpp Check |
 | ----------- | ----------- |
-|[![Compile-Linux](https://github.com/sultanbepari/STEPin_Seat_Temperature_Monitoring_System/actions/workflows/Compile.yml/badge.svg)](https://github.com/sultanbepari/STEPin_Seat_Temperature_Monitoring_System/actions/workflows/Compile.yml)| [![Compile-Linux](https://github.com/sultanbepari/STEPin_Seat_Temperature_Monitoring_System/actions/workflows/Compile.yml/badge.svg)](https://github.com/sultanbepari/STEPin_Seat_Temperature_Monitoring_System/actions/workflows/Compile.yml) |
+|[![Compile-Linux](https://github.com/sultanbepari/STEPin_Seat_Temperature_Monitoring_System/actions/workflows/Compile.yml/badge.svg)](https://github.com/sultanbepari/STEPin_Seat_Temperature_Monitoring_System/actions/workflows/Compile.yml)| [![Cppcheck](https://github.com/sultanbepari/STEPin_Seat_Temperature_Monitoring_System/actions/workflows/Codequality.yml/badge.svg)](https://github.com/sultanbepari/STEPin_Seat_Temperature_Monitoring_System/actions/workflows/Codequality.yml) |
 
 
 ## Contributors List and Summary
