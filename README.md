@@ -29,6 +29,6 @@ The Vehicle Seat Heat Monitoring System is capable of maintaining of heat in the
 
 
 ## Contributors List and Summary
-|PS no. |  Name   |    Features    |
+|PS no. |  Name   |    Project Title    |
 |-------|---------|----------------|
 | `99006291` | Sultan Bepari | Seat Temperature Monitoring System |  
